@@ -1,9 +1,11 @@
-<img width="1584" height="396" alt="my-banner-img" src="https://github.com/user-attachments/assets/1941ed07-e8a6-4621-af98-a2cb52617c4f" /><!-- Banner -->
+<!-- Banner -->
+<img width="1584" height="396" alt="my-banner-img" src="https://github.com/user-attachments/assets/1941ed07-e8a6-4621-af98-a2cb52617c4f" />
 <img src="my-banner-img.png" alt="banner" style="width:100%; border-radius: 12px;" />
 
 <h1 align="center" style="font-weight: bold; font-size: 32px; color: #2F80ED;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Samiul+Islam;MERN+Stack+Web+Developer+🚀;Coding+Frontend+Magic+with+Love+✨" alt="Jakia Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Jakia+Akter;MERN+Stack+Web+Developer+🚀;Coding+Frontend+Magic+with+Love+✨" alt="Jakia Typing SVG" />
 </h1>
+
 
 # 💫 About Me:
 👋 Hi there, I'm Jakia Akter (jakiadp)<br>🚀 A passionate and self-driven MERN Stack Web Developer from Dhaka, Bangladesh, specializing in building responsive, performant, and scalable web applications.
