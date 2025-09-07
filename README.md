@@ -1,3 +1,10 @@
+<!-- Banner -->
+<img src="my-banner-img.png" alt="banner" style="width:100%; border-radius: 12px;" />
+
+<h1 align="center" style="font-weight: bold; font-size: 32px; color: #2F80ED;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+👋+I'm+Samiul+Islam;MERN+Stack+Web+Developer+🚀;Coding+Frontend+Magic+with+Love+✨" alt="Samiul Islam Typing SVG" />
+</h1>
+
 # 💫 About Me:
 👋 Hi there, I'm Jakia Akter (jakiadp)<br>🚀 A passionate and self-driven MERN Stack Web Developer from Dhaka, Bangladesh, specializing in building responsive, performant, and scalable web applications.
 
