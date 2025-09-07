@@ -1,4 +1,4 @@
-<!-- Banner -->
+<img width="1584" height="396" alt="my-banner-img" src="https://github.com/user-attachments/assets/1941ed07-e8a6-4621-af98-a2cb52617c4f" /><!-- Banner -->
 <img src="my-banner-img.png" alt="banner" style="width:100%; border-radius: 12px;" />
 
 <h1 align="center" style="font-weight: bold; font-size: 32px; color: #2F80ED;">
